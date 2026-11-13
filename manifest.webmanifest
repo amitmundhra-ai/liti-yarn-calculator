@@ -1,7 +1,7 @@
 {
-  "name": "Liti Yarn Calculator \u2014 PC & Mobile",
-  "short_name": "Liti Yarn",
-  "description": "Offline yarn costing calculator for warp, weft, denier, tar, stock and history.",
+  "name": "RadhaTextile \u2014 Yarn Calculator",
+  "short_name": "RadhaTextile",
+  "description": "RadhaTextile yarn costing calculator for warp, weft, denier, tar, stock and history.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
